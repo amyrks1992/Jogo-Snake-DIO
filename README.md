@@ -1,2 +1,2 @@
 # Jogo-Snake-DIO
-Recriando o jogo Snake na plataforma Digital Innovation One, no Bootcamp HTML Web Developer, na aula Recriando o jogo da cobrinha com Javascript.
+Developing the Snake game in the plataform Digital Innovation One, in the Bootcamp HTML Web Developer, in the class Recreating the Snake game with Javascript.
